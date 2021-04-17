@@ -1,0 +1,9 @@
+https://www.alura.com.br/
+https://random-status-code.herokuapp.com/
+https://herokuapp.com/
+https://arduino.cc/
+https://httpstat.us/200?sleep=50
+https://httpstat.us/407
+https://httpstat.us/411
+https://httpstat.us/502
+https://httpstat.us/425
