@@ -4,7 +4,14 @@ import (
 	"fmt"
 	"net/http"
 	"os"
+	"time"
 )
+const yellow = "\033[33m"
+const red="\033[31m"
+const green  = "\033[32m"
+const purple = "\033[35m "
+const reset  = "\033[0m"
+const deleyInSeconds = 5
 
 func main(){
 	for {
@@ -16,8 +23,9 @@ func main(){
 func escolha(comando int){
 	switch comando{
 	case 1:
-		
-		iniciarMonitoramento()
+		fmt.Println("Quantas vezes iremos testar?>")
+		qtdTest:= leComando()
+		iniciarMonitoramento(qtdTest)
 	case 2:
 		fmt.Println("Aqui estão os logs")
 	case 0:
@@ -34,30 +42,42 @@ func escolha(comando int){
 
 func exibeIntroducer(){
 	versao:=1.0
-	fmt.Println("###################################")
 	fmt.Println( "\tVersão",versao)
 
-	fmt.Println("#1\tIniciar Monitoramento")
-	fmt.Println("#2\tExibir os logs")
-	fmt.Println("#0\tSair")
+	fmt.Println("1\tIniciar Monitoramento")
+	fmt.Println("2\tExibir os logs")
+	fmt.Println(purple,"\r0\tSair",reset)
 	fmt.Print(":>")
 }
 
 func leComando() int {
 	var comando int
 	fmt.Scan(&comando)
-
 	return comando
 }
 
-func iniciarMonitoramento(){
+func iniciarMonitoramento(qdtTest int){
 	fmt.Println("Começando a monitorar")
-	site := "https://www.alura.com.br/044"
-	site = "https://random-status-code.herokuapp.com/"
-	resp,_:= http.Get(site)
+	sites := []string{"https://www.alura.com.br/",
+										"https://random-status-code.herokuapp.com/",
+										"https://herokuapp.com/",
+								}
+  for i:=1; i<=qdtTest; i++{
+		fmt.Println(yellow,"CICLO: ",i,reset)
+		for  _,site := range sites{
+			testSite(site)
+		}
+		time.Sleep(deleyInSeconds*time.Second)
+		fmt.Println()
+	}
+	fmt.Println()
+}
+
+func testSite(site string){
+	resp, _:= http.Get(site)
 	if resp.StatusCode ==200{
-		fmt.Println("+ Site:",site," Carregado ok")
+		fmt.Println(green,"+ Site:",reset,site," Carregado ok")
 	}else{
-		fmt.Println("- Site:",site,"com erro: ",resp.Status)
+		fmt.Println(red,"- Site:",reset,site,"com erro: ",resp.Status)
 	}
 }
