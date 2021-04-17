@@ -1,0 +1,328 @@
+https://www.alura.com.br/- online: true
+https://www.alura.com.br/- offline: true
+https://random-status-code.herokuapp.com/- online: true
+https://random-status-code.herokuapp.com/- offline: true
+https://herokuapp.com/- online: true
+https://herokuapp.com/- offline: true
+https://arduino.cc/- online: true
+https://arduino.cc/- offline: true
+https://httpstat.us/200?sleep=50- online: true
+https://httpstat.us/200?sleep=50- offline: true
+https://httpstat.us/407- offline: false
+https://httpstat.us/411- offline: false
+https://httpstat.us/502- offline: false
+https://httpstat.us/425h- online: true
+https://httpstat.us/425h- offline: true
+https://redit.com- online: true
+https://redit.com- offline: true
+https://www.alura.com.br/- online: true
+https://www.alura.com.br/- offline: true
+https://random-status-code.herokuapp.com/- online: true
+https://random-status-code.herokuapp.com/- offline: true
+https://herokuapp.com/- online: true
+https://herokuapp.com/- offline: true
+https://arduino.cc/- online: true
+https://arduino.cc/- offline: true
+https://httpstat.us/200?sleep=50- online: true
+https://httpstat.us/200?sleep=50- offline: true
+https://httpstat.us/407- offline: false
+https://httpstat.us/411- offline: false
+https://httpstat.us/502- offline: false
+https://httpstat.us/425h- online: true
+https://httpstat.us/425h- offline: true
+https://redit.com- online: true
+https://redit.com- offline: true
+https://www.alura.com.br/- online: true
+https://www.alura.com.br/- offline: true
+https://random-status-code.herokuapp.com/- online: true
+https://random-status-code.herokuapp.com/- offline: true
+https://herokuapp.com/- online: true
+https://herokuapp.com/- offline: true
+https://arduino.cc/- online: true
+https://arduino.cc/- offline: true
+https://httpstat.us/200?sleep=50- online: true
+https://httpstat.us/200?sleep=50- offline: true
+https://httpstat.us/407- offline: false
+https://httpstat.us/411- offline: false
+https://httpstat.us/502- offline: false
+https://httpstat.us/425- offline: false
+https://redit.com- online: true
+https://redit.com- offline: true
+https://www.alura.com.br/- online: true
+https://www.alura.com.br/- offline: true
+https://random-status-code.herokuapp.com/- offline: false
+https://herokuapp.com/- online: true
+https://herokuapp.com/- offline: true
+https://arduino.cc/- online: true
+https://arduino.cc/- offline: true
+https://httpstat.us/200?sleep=50- online: true
+https://httpstat.us/200?sleep=50- offline: true
+https://httpstat.us/407- offline: false
+https://httpstat.us/411- offline: false
+https://httpstat.us/502- offline: false
+https://httpstat.us/425- offline: false
+17/04/2021 - 00:44:29https://www.alura.com.br/- online: true
+17/04/2021 - 00:44:29https://www.alura.com.br/- offline: true
+17/04/2021 - 00:44:30https://random-status-code.herokuapp.com/- offline: false
+17/04/2021 - 00:44:32https://herokuapp.com/- online: true
+17/04/2021 - 00:44:32https://herokuapp.com/- offline: true
+17/04/2021 - 00:44:33https://arduino.cc/- online: true
+17/04/2021 - 00:44:33https://arduino.cc/- offline: true
+17/04/2021 - 00:44:34https://httpstat.us/200?sleep=50- online: true
+17/04/2021 - 00:44:34https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 - 00:44:34https://httpstat.us/407- offline: false
+17/04/2021 - 00:44:35https://httpstat.us/411- offline: false
+17/04/2021 - 00:44:35https://httpstat.us/502- offline: false
+17/04/2021 - 00:44:35https://httpstat.us/425- offline: false
+17/04/2021 - 00:44:37https://redit.com- online: true
+17/04/2021 - 00:44:37https://redit.com- offline: true
+17/04/2021 - 00:44:38https://www.alura.com.br/- online: true
+17/04/2021 - 00:44:38https://www.alura.com.br/- offline: true
+17/04/2021 - 00:44:39https://random-status-code.herokuapp.com/- online: true
+17/04/2021 - 00:44:39https://random-status-code.herokuapp.com/- offline: true
+17/04/2021 - 00:44:40https://herokuapp.com/- online: true
+17/04/2021 - 00:44:40https://herokuapp.com/- offline: true
+17/04/2021 - 00:44:40https://arduino.cc/- online: true
+17/04/2021 - 00:44:40https://arduino.cc/- offline: true
+17/04/2021 - 00:44:41https://httpstat.us/200?sleep=50- online: true
+17/04/2021 - 00:44:41https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 - 00:44:41https://httpstat.us/407- offline: false
+17/04/2021 - 00:44:41https://httpstat.us/411- offline: false
+17/04/2021 - 00:44:41https://httpstat.us/502- offline: false
+17/04/2021 - 00:44:42https://httpstat.us/425- offline: false
+17/04/2021 - 00:44:43https://redit.com- online: true
+17/04/2021 - 00:44:43https://redit.com- offline: true
+17/04/2021 00:45:11 -https://www.alura.com.br/- online: true
+17/04/2021 00:45:11-https://www.alura.com.br/- offline: true
+17/04/2021 00:45:12 -https://random-status-code.herokuapp.com/- online: true
+17/04/2021 00:45:12-https://random-status-code.herokuapp.com/- offline: true
+17/04/2021 00:45:14 -https://herokuapp.com/- online: true
+17/04/2021 00:45:14-https://herokuapp.com/- offline: true
+17/04/2021 00:45:15 -https://arduino.cc/- online: true
+17/04/2021 00:45:15-https://arduino.cc/- offline: true
+17/04/2021 00:45:15 -https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:45:15-https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:45:16-https://httpstat.us/407- offline: false
+17/04/2021 00:45:16-https://httpstat.us/411- offline: false
+17/04/2021 00:45:16-https://httpstat.us/502- offline: false
+17/04/2021 00:45:16-https://httpstat.us/425- offline: false
+17/04/2021 00:45:18 -https://redit.com- online: true
+17/04/2021 00:45:18-https://redit.com- offline: true
+17/04/2021 00:45:20 -https://www.alura.com.br/- online: true
+17/04/2021 00:45:20-https://www.alura.com.br/- offline: true
+17/04/2021 00:45:20 -https://random-status-code.herokuapp.com/- online: true
+17/04/2021 00:45:20-https://random-status-code.herokuapp.com/- offline: true
+17/04/2021 00:45:21 -https://herokuapp.com/- online: true
+17/04/2021 00:45:21-https://herokuapp.com/- offline: true
+17/04/2021 00:45:22 -https://arduino.cc/- online: true
+17/04/2021 00:45:22-https://arduino.cc/- offline: true
+17/04/2021 00:45:22 -https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:45:22-https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:45:22-https://httpstat.us/407- offline: false
+17/04/2021 00:45:23-https://httpstat.us/411- offline: false
+17/04/2021 00:45:23-https://httpstat.us/502- offline: false
+17/04/2021 00:45:23-https://httpstat.us/425- offline: false
+17/04/2021 00:45:25 -https://redit.com- online: true
+17/04/2021 00:45:25-https://redit.com- offline: true
+17/04/2021 00:49:10 - https://www.alura.com.br/- online: true
+17/04/2021 00:49:10- https://www.alura.com.br/- offline: true
+17/04/2021 00:49:11- https://random-status-code.herokuapp.com/- offline: false
+17/04/2021 00:49:13 - https://herokuapp.com/- online: true
+17/04/2021 00:49:13- https://herokuapp.com/- offline: true
+17/04/2021 00:49:14 - https://arduino.cc/- online: true
+17/04/2021 00:49:14- https://arduino.cc/- offline: true
+17/04/2021 00:49:15 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:49:15- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:49:15- https://httpstat.us/407- offline: false
+17/04/2021 00:49:15- https://httpstat.us/411- offline: false
+17/04/2021 00:49:16- https://httpstat.us/502- offline: false
+17/04/2021 00:49:16- https://httpstat.us/425- offline: false
+17/04/2021 00:49:18 - https://redit.com- online: true
+17/04/2021 00:49:18- https://redit.com- offline: true
+17/04/2021 00:49:19 - https://www.alura.com.br/- online: true
+17/04/2021 00:49:19- https://www.alura.com.br/- offline: true
+17/04/2021 00:49:20 - https://random-status-code.herokuapp.com/- online: true
+17/04/2021 00:49:20- https://random-status-code.herokuapp.com/- offline: true
+17/04/2021 00:49:20 - https://herokuapp.com/- online: true
+17/04/2021 00:49:20- https://herokuapp.com/- offline: true
+17/04/2021 00:49:21 - https://arduino.cc/- online: true
+17/04/2021 00:49:21- https://arduino.cc/- offline: true
+17/04/2021 00:49:22 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:49:22- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:49:22- https://httpstat.us/407- offline: false
+17/04/2021 00:49:22- https://httpstat.us/411- offline: false
+17/04/2021 00:49:22- https://httpstat.us/502- offline: false
+17/04/2021 00:49:23- https://httpstat.us/425- offline: false
+17/04/2021 00:49:24 - https://redit.com- online: true
+17/04/2021 00:49:24- https://redit.com- offline: true
+17/04/2021 00:49:26 - https://www.alura.com.br/- online: true
+17/04/2021 00:49:26- https://www.alura.com.br/- offline: true
+17/04/2021 00:49:26- https://random-status-code.herokuapp.com/- offline: false
+17/04/2021 00:49:27 - https://herokuapp.com/- online: true
+17/04/2021 00:49:27- https://herokuapp.com/- offline: true
+17/04/2021 00:49:28 - https://arduino.cc/- online: true
+17/04/2021 00:49:28- https://arduino.cc/- offline: true
+17/04/2021 00:49:28 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:49:28- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:49:28- https://httpstat.us/407- offline: false
+17/04/2021 00:49:29- https://httpstat.us/411- offline: false
+17/04/2021 00:49:29- https://httpstat.us/502- offline: false
+17/04/2021 00:49:29- https://httpstat.us/425- offline: false
+17/04/2021 00:49:31 - https://redit.com- online: true
+17/04/2021 00:49:31- https://redit.com- offline: true
+17/04/2021 00:49:32 - https://www.alura.com.br/- online: true
+17/04/2021 00:49:32- https://www.alura.com.br/- offline: true
+17/04/2021 00:49:33 - https://random-status-code.herokuapp.com/- online: true
+17/04/2021 00:49:33- https://random-status-code.herokuapp.com/- offline: true
+17/04/2021 00:49:34 - https://herokuapp.com/- online: true
+17/04/2021 00:49:34- https://herokuapp.com/- offline: true
+17/04/2021 00:49:34 - https://arduino.cc/- online: true
+17/04/2021 00:49:34- https://arduino.cc/- offline: true
+17/04/2021 00:49:34 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:49:34- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:49:35- https://httpstat.us/407- offline: false
+17/04/2021 00:49:35- https://httpstat.us/411- offline: false
+17/04/2021 00:49:35- https://httpstat.us/502- offline: false
+17/04/2021 00:49:35- https://httpstat.us/425- offline: false
+17/04/2021 00:49:37 - https://redit.com- online: true
+17/04/2021 00:49:37- https://redit.com- offline: true
+17/04/2021 00:49:39 - https://www.alura.com.br/- online: true
+17/04/2021 00:49:39- https://www.alura.com.br/- offline: true
+17/04/2021 00:49:39- https://random-status-code.herokuapp.com/- offline: false
+17/04/2021 00:49:41 - https://herokuapp.com/- online: true
+17/04/2021 00:49:41- https://herokuapp.com/- offline: true
+17/04/2021 00:49:41 - https://arduino.cc/- online: true
+17/04/2021 00:49:41- https://arduino.cc/- offline: true
+17/04/2021 00:49:41 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:49:41- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:49:42- https://httpstat.us/407- offline: false
+17/04/2021 00:49:42- https://httpstat.us/411- offline: false
+17/04/2021 00:49:42- https://httpstat.us/502- offline: false
+17/04/2021 00:49:42- https://httpstat.us/425- offline: false
+17/04/2021 00:49:44 - https://redit.com- online: true
+17/04/2021 00:49:44- https://redit.com- offline: true
+17/04/2021 00:49:46 - https://www.alura.com.br/- online: true
+17/04/2021 00:49:46- https://www.alura.com.br/- offline: true
+17/04/2021 00:49:46 - https://random-status-code.herokuapp.com/- online: true
+17/04/2021 00:49:46- https://random-status-code.herokuapp.com/- offline: true
+17/04/2021 00:49:47 - https://herokuapp.com/- online: true
+17/04/2021 00:49:47- https://herokuapp.com/- offline: true
+17/04/2021 00:49:47 - https://arduino.cc/- online: true
+17/04/2021 00:49:47- https://arduino.cc/- offline: true
+17/04/2021 00:49:48 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:49:48- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:49:48- https://httpstat.us/407- offline: false
+17/04/2021 00:49:48- https://httpstat.us/411- offline: false
+17/04/2021 00:49:48- https://httpstat.us/502- offline: false
+17/04/2021 00:49:49- https://httpstat.us/425- offline: false
+17/04/2021 00:49:50 - https://redit.com- online: true
+17/04/2021 00:49:50- https://redit.com- offline: true
+17/04/2021 00:49:51 - https://www.alura.com.br/- online: true
+17/04/2021 00:49:51- https://www.alura.com.br/- offline: true
+17/04/2021 00:49:52- https://random-status-code.herokuapp.com/- offline: false
+17/04/2021 00:49:53 - https://herokuapp.com/- online: true
+17/04/2021 00:49:53- https://herokuapp.com/- offline: true
+17/04/2021 00:49:54 - https://arduino.cc/- online: true
+17/04/2021 00:49:54- https://arduino.cc/- offline: true
+17/04/2021 00:49:54 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:49:54- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:49:54- https://httpstat.us/407- offline: false
+17/04/2021 00:49:55- https://httpstat.us/411- offline: false
+17/04/2021 00:49:55- https://httpstat.us/502- offline: false
+17/04/2021 00:49:55- https://httpstat.us/425- offline: false
+17/04/2021 00:49:57 - https://redit.com- online: true
+17/04/2021 00:49:57- https://redit.com- offline: true
+17/04/2021 00:49:58 - https://www.alura.com.br/- online: true
+17/04/2021 00:49:58- https://www.alura.com.br/- offline: true
+17/04/2021 00:49:59 - https://random-status-code.herokuapp.com/- online: true
+17/04/2021 00:49:59- https://random-status-code.herokuapp.com/- offline: true
+17/04/2021 00:50:00 - https://herokuapp.com/- online: true
+17/04/2021 00:50:00- https://herokuapp.com/- offline: true
+17/04/2021 00:50:00 - https://arduino.cc/- online: true
+17/04/2021 00:50:00- https://arduino.cc/- offline: true
+17/04/2021 00:50:00 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:50:00- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:50:01- https://httpstat.us/407- offline: false
+17/04/2021 00:50:01- https://httpstat.us/411- offline: false
+17/04/2021 00:50:01- https://httpstat.us/502- offline: false
+17/04/2021 00:50:01- https://httpstat.us/425- offline: false
+17/04/2021 00:50:03 - https://redit.com- online: true
+17/04/2021 00:50:03- https://redit.com- offline: true
+17/04/2021 00:50:04 - https://www.alura.com.br/- online: true
+17/04/2021 00:50:04- https://www.alura.com.br/- offline: true
+17/04/2021 00:50:04 - https://random-status-code.herokuapp.com/- online: true
+17/04/2021 00:50:04- https://random-status-code.herokuapp.com/- offline: true
+17/04/2021 00:50:05 - https://herokuapp.com/- online: true
+17/04/2021 00:50:05- https://herokuapp.com/- offline: true
+17/04/2021 00:50:06 - https://arduino.cc/- online: true
+17/04/2021 00:50:06- https://arduino.cc/- offline: true
+17/04/2021 00:50:06 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:50:06- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:50:07- https://httpstat.us/407- offline: false
+17/04/2021 00:50:07- https://httpstat.us/411- offline: false
+17/04/2021 00:50:07- https://httpstat.us/502- offline: false
+17/04/2021 00:50:07- https://httpstat.us/425- offline: false
+17/04/2021 00:50:09 - https://redit.com- online: true
+17/04/2021 00:50:09- https://redit.com- offline: true
+17/04/2021 00:50:10 - https://www.alura.com.br/- online: true
+17/04/2021 00:50:10- https://www.alura.com.br/- offline: true
+17/04/2021 00:50:10- https://random-status-code.herokuapp.com/- offline: false
+17/04/2021 00:50:11 - https://herokuapp.com/- online: true
+17/04/2021 00:50:11- https://herokuapp.com/- offline: true
+17/04/2021 00:50:12 - https://arduino.cc/- online: true
+17/04/2021 00:50:12- https://arduino.cc/- offline: true
+17/04/2021 00:50:12 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:50:12- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:50:12- https://httpstat.us/407- offline: false
+17/04/2021 00:50:13- https://httpstat.us/411- offline: false
+17/04/2021 00:50:13- https://httpstat.us/502- offline: false
+17/04/2021 00:50:13- https://httpstat.us/425- offline: false
+17/04/2021 00:50:14 - https://redit.com- online: true
+17/04/2021 00:50:14- https://redit.com- offline: true
+17/04/2021 00:50:16 - https://www.alura.com.br/- online: true
+17/04/2021 00:50:16- https://www.alura.com.br/- offline: true
+17/04/2021 00:50:16- https://random-status-code.herokuapp.com/- offline: false
+17/04/2021 00:50:17 - https://herokuapp.com/- online: true
+17/04/2021 00:50:17- https://herokuapp.com/- offline: true
+17/04/2021 00:50:18 - https://arduino.cc/- online: true
+17/04/2021 00:50:18- https://arduino.cc/- offline: true
+17/04/2021 00:50:18 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:50:18- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:50:19- https://httpstat.us/407- offline: false
+17/04/2021 00:50:19- https://httpstat.us/411- offline: false
+17/04/2021 00:50:19- https://httpstat.us/502- offline: false
+17/04/2021 00:50:19- https://httpstat.us/425- offline: false
+17/04/2021 00:50:21 - https://redit.com- online: true
+17/04/2021 00:50:21- https://redit.com- offline: true
+17/04/2021 00:50:23 - https://www.alura.com.br/- online: true
+17/04/2021 00:50:23- https://www.alura.com.br/- offline: true
+17/04/2021 00:50:24 - https://random-status-code.herokuapp.com/- online: true
+17/04/2021 00:50:24- https://random-status-code.herokuapp.com/- offline: true
+17/04/2021 00:50:24 - https://herokuapp.com/- online: true
+17/04/2021 00:50:24- https://herokuapp.com/- offline: true
+17/04/2021 00:50:25 - https://arduino.cc/- online: true
+17/04/2021 00:50:25- https://arduino.cc/- offline: true
+17/04/2021 00:50:25 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:50:25- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:50:26- https://httpstat.us/407- offline: false
+17/04/2021 00:50:26- https://httpstat.us/411- offline: false
+17/04/2021 00:50:26- https://httpstat.us/502- offline: false
+17/04/2021 00:50:27- https://httpstat.us/425- offline: false
+17/04/2021 00:50:28 - https://redit.com- online: true
+17/04/2021 00:50:28- https://redit.com- offline: true
+17/04/2021 00:50:30 - https://www.alura.com.br/- online: true
+17/04/2021 00:50:30- https://www.alura.com.br/- offline: true
+17/04/2021 00:50:30 - https://random-status-code.herokuapp.com/- online: true
+17/04/2021 00:50:30- https://random-status-code.herokuapp.com/- offline: true
+17/04/2021 00:50:31 - https://herokuapp.com/- online: true
+17/04/2021 00:50:31- https://herokuapp.com/- offline: true
+17/04/2021 00:50:32 - https://arduino.cc/- online: true
+17/04/2021 00:50:32- https://arduino.cc/- offline: true
+17/04/2021 00:50:32 - https://httpstat.us/200?sleep=50- online: true
+17/04/2021 00:50:32- https://httpstat.us/200?sleep=50- offline: true
+17/04/2021 00:50:32- https://httpstat.us/407- offline: false
+17/04/2021 00:50:32- https://httpstat.us/411- offline: false
+17/04/2021 00:50:33- https://httpstat.us/502- offline: false
+17/04/2021 00:50:33- https://httpstat.us/425- offline: false
+17/04/2021 00:50:34 - https://redit.com- online: true
+17/04/2021 00:50:34- https://redit.com- offline: true
