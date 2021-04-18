@@ -1,0 +1,25 @@
+version: '3.7'
+services: 
+  db:
+    image: postgres:alpine
+    restart: always
+    environment: 
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: simpleAPI
+    ports:
+      - "5432:5432"
+    volumes:
+      - dataBase:/var/lib/postgresql/data
+  #for dev envarioment  
+  pgtest:
+    image: dpage/pgadmin4
+    environment: 
+      PGADMIN_DEFAULT_EMAIL: "victor@vhreis.net"
+      PGADMIN_DEFAULT_PASSWORD: "7654321"
+    ports:
+      - "8282:80"
+    depends_on: 
+      - db
+volumes:
+  dataBase:
