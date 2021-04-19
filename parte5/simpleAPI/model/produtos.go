@@ -1,5 +1,8 @@
 package model
-import "../db"
+
+import (
+	"github.com/vhreis/aprendendoGO/parte5/simpleAPI/db"
+)
 
 type Produto struct{
 	Id int
@@ -11,7 +14,7 @@ type Produto struct{
 
 func BuscaTodosProdutos() []Produto{
 
-	db:=ConectaDataBase()
+	db:=db.ConectaDataBase()
 	selectProdutos,err := db.Query("select * from produtos")
 	if err != nil{
 		panic(err.Error())
