@@ -1,6 +1,8 @@
 package model
 
 import (
+	"log"
+
 	"github.com/vhreis/aprendendoGO/parte5/simpleAPI/db"
 )
 
@@ -39,4 +41,14 @@ func BuscaTodosProdutos() []Produto{
 	
 	defer db.Close()
 	return produtos
+}
+
+func NovoProduto(nome,descricao string ,preco float64,qtd int){
+	db := db.ConectaDataBase()
+	query, err := db.Prepare("insert into produtos(nome, descricao, preco, qtd) values($1,$2,$3,$4)")
+	if err != nil {
+		log.Println(err.Error())
+	}
+	query.Exec(nome,descricao,preco,qtd)
+	defer db.Close()
 }
